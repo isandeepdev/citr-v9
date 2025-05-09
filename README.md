@@ -1,8 +1,6 @@
-# About this Repository
+# Complete intro to React
 
-Introduction to react `citr-v9` is all about **client-side React** and for more advance react concept and **Server-side React** please refer to `ir-v9`.
-
-This is repository totally works fine on node v22.15.0 and npm v10.9.2
+Complete intro to react `citr-v9` is all about **client-side React** and for more advance react concept and **Server-side React** please refer to `ir-v9`.
 
 ## Understanding How React Works Across Platforms
 
