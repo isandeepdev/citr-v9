@@ -16,8 +16,8 @@ export default defineConfig({
   // - Better error overlays in the browser
   plugins: [react()],
   server: {
-    port: 3000, // start dev server on http://localhost:3000
-    open: true, // open browser automatically when dev server starts
+    port: 5173, // start dev server on http://localhost:3000
+    open: false, // open browser automatically when dev server starts
   },
   build: {
     outDir: "dist", // where the production build goes

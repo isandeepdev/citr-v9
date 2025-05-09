@@ -1,5 +1,3 @@
-# React v18.3.1
-
 # About this Repository
 
 Introduction to react `citr-v9` is all about **client-side React** and for more advance react concept and **Server-side React** please refer to `ir-v9`.
@@ -16,15 +14,3 @@ React is the core library used to build user interfaces, and it's the same wheth
 ```
 
 > React is all about making component.
-
-## Tools
-
-Tools like Prettier, ESLint, and Vite make development much easier. In this section, we'll learn how to set up a solid development environment using them.
-
-```cmd
-npm init -y
-```
-
-# Core React concepts
-
-## JSX
