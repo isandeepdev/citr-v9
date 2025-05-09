@@ -1,0 +1,15 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+.title {
+  margin-bottom: 40px;
+  text-align: center;
+}
+.name {
+  text-align: center;
+}
+.description {
+  text-align: center;
+}
